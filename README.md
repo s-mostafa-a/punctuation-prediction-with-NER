@@ -1,5 +1,5 @@
 # Punctuation Prediction Using NER Models
-This is the course project for Data Mining EECS6412 at York University. For the full report, please read [this file](./Data_Mining_Report.pdf).
+This is the course project for Data Mining EECS6412 at York University. For the full report, please read [this file](./Report.pdf).
 
 
 # Dataset
